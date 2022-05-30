@@ -3,7 +3,7 @@ module github.com/whalebrew/whalebrew
 go 1.17
 
 require (
-	github.com/Songmu/prompter v0.5.0
+	github.com/Songmu/prompter v0.5.1
 	github.com/blang/semver/v4 v4.0.0
 	github.com/containerd/containerd v1.6.2
 	github.com/docker/cli v20.10.14+incompatible
@@ -51,8 +51,8 @@ require (
 	github.com/subosito/gotenv v1.2.0 // indirect
 	golang.org/x/net v0.0.0-20211216030914-fe4d6282115f // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
-	golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e // indirect
-	golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b // indirect
+	golang.org/x/sys v0.0.0-20220520151302-bc2c85ada10a // indirect
+	golang.org/x/term v0.0.0-20220526004731-065cf7ba2467 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/time v0.0.0-20211116232009-f0f3c7e86c11 // indirect
 	google.golang.org/genproto v0.0.0-20211208223120-3a66f561d7aa // indirect
