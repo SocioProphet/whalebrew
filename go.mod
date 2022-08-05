@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/Songmu/prompter v0.5.0
 	github.com/blang/semver/v4 v4.0.0
-	github.com/containerd/containerd v1.6.2
+	github.com/containerd/containerd v1.6.7
 	github.com/docker/cli v20.10.14+incompatible
 	github.com/docker/docker v1.4.2-0.20190924003213-a8608b5b67c7
 	github.com/google/go-cmp v0.5.7
@@ -40,7 +40,7 @@ require (
 	github.com/morikuni/aec v1.0.0 // indirect
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
-	github.com/opencontainers/image-spec v1.0.2 // indirect
+	github.com/opencontainers/image-spec v1.0.3-0.20211202183452-c5a74bcca799 // indirect
 	github.com/pelletier/go-toml v1.9.4 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
@@ -51,7 +51,7 @@ require (
 	github.com/subosito/gotenv v1.2.0 // indirect
 	golang.org/x/net v0.0.0-20211216030914-fe4d6282115f // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
-	golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e // indirect
+	golang.org/x/sys v0.0.0-20220412211240-33da011f77ad // indirect
 	golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b // indirect
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/time v0.0.0-20211116232009-f0f3c7e86c11 // indirect
